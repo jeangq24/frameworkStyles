@@ -2627,9 +2627,6 @@ body, html {
 }
 
 
-
-
-
 .roboto {
     font-family: var(--roboto-text);
 }
@@ -2667,6 +2664,46 @@ body, html {
     font-weight: 0;
 }
 
+
+.enable-bold-100 {
+    font-weight: 100;
+}
+
+.enable-bold-200 {
+    font-weight: 200;
+}
+
+.enable-bold-300 {
+    font-weight: 300;
+}
+
+.enable-bold-400 {
+    font-weight: 400;
+}
+
+.enable-bold-500 {
+    font-weight: 500;
+}
+
+.enable-bold-600 {
+    font-weight: 600;
+}
+
+.enable-bold-700 {
+    font-weight: 700;
+}
+
+.text-uc {
+    text-transform: uppercase;
+}
+
+.text-cl {
+    text-transform:capitalize;
+}
+
+.text-lc {
+    text-transform: lowercase;
+}
 /*Container and Cards*/
 .container {
     padding: 10px;
